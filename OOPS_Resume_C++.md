@@ -83,8 +83,8 @@ Refer this for project answer format (WHY,WHAT,HOW)  this [Link here ](https://g
 
 # Top SQL Queries 
 
-[Click here](https://www.edureka.co/blog/interview-questions/sql-query-interview-questions)
+> [Click here](https://www.edureka.co/blog/interview-questions/sql-query-interview-questions)
 
 # Top HR Questions 
 
-[Click here](https://www.javatpoint.com/job-interview-questions)
+> [Click here](https://www.javatpoint.com/job-interview-questions)
