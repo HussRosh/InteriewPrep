@@ -66,17 +66,17 @@ Levels are Public, Protected, Private, Internal, and Protected Internal.
 
 # Based on your Resume 
 
-### Q) Tell me about your experience in TECHCITI TECHNOLOGIES .
+#### Q) Tell me about your experience in TECHCITI TECHNOLOGIES .
 
-## Q) What were the Front-End and Back-End Technologies you worked on during your internship ? 
+#### Q) What were the Front-End and Back-End Technologies you worked on during your internship ? 
 
-## Q) What were the challenges Faced by you when you were in your Internship ? 
+#### Q) What were the challenges Faced by you when you were in your Internship ? 
 
-## Q) Tell me something about your projects that you had worked on ? 
+#### Q) Tell me something about your projects that you had worked on ? 
 
-## Q) Why did you work on that project ? 
+#### Q) Why did you work on that project ? 
 
-## Q) What were the challenges you faced ?
+#### Q) What were the challenges you faced ?
 
 Refer this for project answer format (WHY,WHAT,HOW)  this [Link here ](https://github.com/Hussain008/Spotlight/blob/master/projectthou8s.md)
 
