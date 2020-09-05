@@ -144,7 +144,8 @@ There are two types of semaphore:
 > Virtual memory creates an illusion that each user has one or more contiguous address spaces, each beginning at address zero. The sizes of such virtual address spaces is generally very high.
 The idea of virtual memory is to use disk space to extend the RAM. Running processes don’t need to care whether the memory is from RAM or disk. The illusion of such a large amount of memory is created by subdividing the virtual memory into smaller pieces, which can be loaded into physical memory whenever they are needed by a process.
 
-
+#### Q) What are different page replacement Algorithms ? Explain with examples . 
+> [Here](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 
 #### Q) What is the use of paging in operating system?
 > Paging is used to solve the external fragmentation problem in operating system. This technique ensures that the data you need is available as quickly as possible.
