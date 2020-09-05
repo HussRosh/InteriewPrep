@@ -83,7 +83,7 @@ Refer this for project answer format (WHY,WHAT,HOW)  this [Link here ](https://g
 
 # OS
 
-> - [Last Minute Overall Notes on OS](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
+- [Last Minute Overall Notes on OS](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
 - [Most Frequently asked Questions in OS](https://www.javatpoint.com/operating-system-interview-questions)
 - OS lectures [Playlist-I](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) or [Playlist-II](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
 
