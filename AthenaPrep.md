@@ -1,4 +1,4 @@
-# Blackrock 
+# Athena
 
 ## About 
 > athenahealth, Inc. is a private American company that provides network-enabled services for healthcare and point-of-care mobile apps in the United States. athenahealth has a network of more than 160,000 providers and 110 million patients and offers a suite of services to manage medical records, revenue cycle, patient engagement, care coordination, and population health.
