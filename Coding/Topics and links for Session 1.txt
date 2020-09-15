@@ -1,0 +1,56 @@
+C++:
+Header files
+Data Types
+Input
+Output
+Conditions and Loops
+Functions 
+Arrays 
+Strings
+Vectors
+Input/Output (arrays, string , getline)
+
+https://practice.geeksforgeeks.org/problems/sum-of-array-elements/0
+
+https://leetcode.com/problems/running-sum-of-1d-array/
+
+https://practice.geeksforgeeks.org/problems/reverse-an-array/0
+
+https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1
+
+https://practice.geeksforgeeks.org/problems/value-equal-to-index-value/0
+
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+
+https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0
+
+https://practice.geeksforgeeks.org/problems/reverse-the-string/0
+
+https://practice.geeksforgeeks.org/problems/palindrome-string/0
+
+https://practice.geeksforgeeks.org/problems/remove-spaces/0
+
+
+
+--refer this video--
+========================================
+All STL (refer : https://www.youtube.com/watch?v=g-1Cn3ccwXY&t=0s )
+(pair , map , set , sort , queue , stack)
+=========================================
+
+STL - sort
+comparator
+struct
+dynamic allocation/global variables
+
+
+Problems : 
+https://practice.geeksforgeeks.org/problems/majority-element/0
+
+
+
+
+
+
+select customerName from customer c where 1 = (select Count(*) from product p where c.CustomerId = p.CustomerId)
+order by c.CustomerName ; 
