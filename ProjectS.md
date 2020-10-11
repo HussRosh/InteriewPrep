@@ -22,3 +22,21 @@
 
 - Third problem , I faced was integrating this code into sublime text plugin environment. But all the external libraries that I used were not able to import into the plugin. Its after some research I go to know that sublime text used its own sandbox of python 3.3 which they had with them thier own libraries . After few days , I got a way around this by including the path for imp files / libraries in the very beginning of the plugin, so evertime the plugin is loaded , it will import those files for that plugin.
 
+
+# TypeGuess
+
+## Why
+
+> I wanted to make a simple fun text based game . So what happened was many-a-times , in VIT  , we used to get assignments , where we had to do a lot of research  , and during this research , I thought  , why not make this research , fun ? So I decided to make a game  , as a google chrome extension where , the extension will go through my current page , it will randomly select a word . Then , the extension will provide me with the definition of this word , and white-wash almost 80% of useless words from the page . My task would be to scroll the page and according to the deifnition  , I'd have to guess the word . 
+
+
+## How
+
+> There were several stages to this project . First determining the environment for the extension , which turned out to be javascript . I then chose an API , would provide me the definition of the word . I also had to white-wash 80% of the words on the page , for which I used the DOM property and recursively removed the words . The UI of the extension was just to be done like any other webspage using HTML and CSS .
+
+## Problems faced
+- One of the initial problems , faced was to find a free and reliable  dictionary API , which would give me the definition of the target word . After a lot of searching , I decided to use OwlDictionary as my choice .
+
+- Another problem was understanding and implementing the code based on chome's runtime environment . According to chrome's environment , the current page that you're in and your extension are completely different and independent environement . But , I needed to transfer the word from the page and communicate to my extension right  ? One of the inital ways  , I thought would be by doing some sort of file-handling where I would create a file and put the text in there from the page and then my extension would open the file and read it . But this process would be too slow and costly . Eventually  ,  I came and learnt about chromeAPIs , which helped do this communication , through , EventListeners which triggered each other and using global shared variables , which both of them could access . This way I was able to sync their actions and pass variables/texts between them (content of the page and word selected ) . 
+
+
