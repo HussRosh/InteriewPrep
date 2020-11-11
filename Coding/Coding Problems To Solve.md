@@ -79,3 +79,49 @@ https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
 (every video in the playlist is a problem on GFG , so after every video , solve the problem in code too )
 
 > Only when you have completed everything above we will move to other Data Structures .
+
+
+
+## Linked List
+https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
+
+https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
+
+https://www.geeksforgeeks.org/write-a-function-to-reverse-the-nodes-of-a-linked-list/
+
+https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/circular-linked-list/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/
+
+https://www.geeksforgeeks.org/delete-n-nodes-after-m-nodes-of-a-linked-list/
+
+https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://practice.geeksforgeeks.org/problem-page.php?pid=700099
+
+https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+
+https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1/?category[]=Linked%20List&page=2&sortBy=submissions&query=category[]Linked%20Listpage2sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0/?category[]=Linked%20List&page=2&sortBy=submissions&query=category[]Linked%20Listpage2sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1/?category[]=Linked%20List&page=2&sortBy=submissions&query=category[]Linked%20Listpage2sortBysubmissions
+
+https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1/?category[]=Linked%20List&page=2&sortBy=submissions&query=category[]Linked%20Listpage2sortBysubmissions
+
+https://www.geeksforgeeks.org/flattening-a-linked-list/
+
+https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
+
