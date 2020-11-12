@@ -107,7 +107,7 @@ https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-
 
 https://practice.geeksforgeeks.org/problem-page.php?pid=700099
 
-https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+https://leetcode.com/problems/linked-list-cycle-ii/
 
 https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1/?category[]=Linked%20List&page=1&sortBy=submissions&query=category[]Linked%20Listpage1sortBysubmissions
 
